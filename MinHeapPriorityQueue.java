@@ -1,4 +1,4 @@
-package piano_player.pq_heap;
+package piano_player;
 
 import piano_player.pq_heap.SortedArrayPriorityQueue.ArrEntry;
 
