@@ -1,4 +1,4 @@
-package piano_player.pq_heap;
+package piano_player;
 
 import java.util.Scanner;
 
